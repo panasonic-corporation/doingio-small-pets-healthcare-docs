@@ -203,7 +203,6 @@ https://M5Stack.com/pages/download
 
 ## 5.ファームウエアをダウンロード
 https://github.com/panasonic-corporation/doingio-small-pets-healthcare
-＊URL決定後に変更
 
 <br><br><br><br>
 
