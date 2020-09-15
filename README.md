@@ -202,7 +202,7 @@ https://M5Stack.com/pages/download
 <br><br><br><br>
 
 ## 5.ファームウエアをダウンロード
-https://github.com/panasonic-corporation/doingio-ventilation-alert
+https://github.com/panasonic-corporation/doingio-small-pets-healthcare
 ＊URL決定後に変更
 
 <br><br><br><br>
