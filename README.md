@@ -22,6 +22,11 @@ D+IOプロジェクトは、人間が本来備え持っている創造力をエ�
 <br><br><br><br>
 # 作り方
 
+
+## 作り方動画も公開しています
+<a href="https://www.youtube.com/watch?v=rLuye3YrSfk"><img width="600px" src="images/howto_jp.jpg"></a>
+
+
 ## 1.準備
 必要なパーツを用意
 
