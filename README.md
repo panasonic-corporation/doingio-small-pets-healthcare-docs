@@ -1,4 +1,3 @@
-# **[小動物ヘルスケアデバイスのソースコードはこちら](https://github.com/panasonic-corporation/doingio-small-pets-healthcare)**
 #  D+IO Project
 **パナソニック株式会社/FUTURE LIFE FACTORY**
 D+IOプロジェクトは、人間が本来備え持っている創造力をエンパワーするプロジェクトです。
@@ -9,6 +8,9 @@ D+IOプロジェクトは、人間が本来備え持っている創造力をエ�
 
 ## 【D+IO PRODUCT 第2弾】小動物ヘルスケアデバイス
 第2弾は、小さなペットの活動量や体重、飼育する環境の温度・湿度などが測定できる「小動物ヘルスケアデバイス」です。
+
+**ソースコードは別リポジトリです**
+<br>[https://github.com/panasonic-corporation/doingio-small-pets-healthcare](https://github.com/panasonic-corporation/doingio-small-pets-healthcare)
 
 <br>
 
