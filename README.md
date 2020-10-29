@@ -186,7 +186,7 @@ https://M5Stack.com/pages/download
 
 ## 4.ライブラリをダウンロードとインストール
 
-1. "設定" → "追加のボードマネージャーのURL"に「https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json」と入力  
+1. "設定" → "追加のボードマネージャーのURL"に「 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 」と入力  
 ![写真](images/howto/4_1_boards_manager.jpg)
 
 1. "ツール" → "ボードマネージャ"「esp32」と検索して「esp32 by Espressif Systems」をインストール  
