@@ -170,31 +170,13 @@ ToF測距センサでお部屋の出入りをカウントします。
 
 ## 3.開発環境のダウンロードとインストール
 
-https://M5Stack.com/pages/download 
+下記リンクを参考に開発環境をインストールしてください。
 
-![写真](images/howto/3_0_M5stackSoft.jpg)
-
-1. arduino IDEダウンロードし、続けてインストールしてください。   
-![写真](images/howto/3_1_ArduinoIDEDL.jpg)
-![写真](images/howto/3_1_install.jpg)
-
-1. M5Stack.comからUSBドライバをダウンロードし、続けてインストールしてください。  
-![写真](images/howto/3_2_USBDriveDL.jpg)
-![写真](images/howto/3_2_install.jpg)
+https://github.com/panasonic-corporation/doingio-base-docs/blob/master/README.md#a-m5stack%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%A8%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
 
 <br><br><br><br>
 
 ## 4.ライブラリをダウンロードとインストール
-
-1. "設定" → "追加のボードマネージャーのURL"に「 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 」と入力  
-![写真](images/howto/4_1_boards_manager.jpg)
-
-1. "ツール" → "ボードマネージャ"「esp32」と検索して「esp32 by Espressif Systems」をインストール  
-![写真](images/howto/4_2_ESP32_install.jpg)
-
-1. ”スケッチ” → "ライブラリを管理"「M5Stack」と検索して「M5Stack by M5Stack」をインストール  
-![写真](images/howto/4_3_M5stack_install.jpg)
-
 
 1. ”スケッチ” → ”ライブラリを管理”「ambient」と検索して「Ambient ESP32 ESP8266 lib」をインストール　　https://ambidata.io/docs/esp8266/#library_import  
 ![写真](images/howto/4_22_ambient_install.jpg)
