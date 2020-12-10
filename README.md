@@ -2,7 +2,7 @@
 **パナソニック株式会社/FUTURE LIFE FACTORY**
 <br>「D+IO（ドゥーイングアイオー）」は、「大切な誰かへ届けたいみんなのモノづくり」を応援する活動です。
 ### [D+IO プロジェクト詳細](https://panasonic.co.jp/design/flf/works/doing_io/)
-<a href="https://panasonic.co.jp/design/flf/works/doing_io/"><img width="500px" src="https://panasonic.co.jp/design/flf/assets/img/works/doing_io/doing_io_icon.jpg"></a>
+<a href="https://panasonic.co.jp/design/flf/works/doing_io/"><img width="500px" src="https://panasonic.co.jp/design/flf/assets/img/works/doing_io/doing_io_white_main.jpg"></a>
 
 <br><br>
 
